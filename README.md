@@ -11,7 +11,7 @@ The main function of EpiCell-IQ is in the housman_test_cfDNA.R file. This functi
 
 Houseman, E.A., Accomando, W.P., Koestler, D.C. et al. DNA methylation arrays as surrogate measures of cell mixture distribution. BMC Bioinformatics 13, 86 (2012). https://doi.org/10.1186/1471-2105-13-86
 
-An example use of the tool with cfDNA data is provided in the EpiCell_IQ.R script. You can modify this script to suit your dataset.
+An example use of the tool with cfDNA data is provided in the **EpiCell_IQ.R** script. You can modify this script to suit your dataset.
 
 ### Citation
 Houseman, E.A., Accomando, W.P., Koestler, D.C. et al. DNA methylation arrays as surrogate measures of cell mixture distribution. BMC Bioinformatics 13, 86 (2012). https://doi.org/10.1186/1471-2105-13-86
